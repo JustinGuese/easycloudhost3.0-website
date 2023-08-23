@@ -1,9 +1,9 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/spydea/site/"
-title = "Spydea sass theme"
+baseURL = "https://easycloudhost.de/"
+title = "EasyCloudHost"
 theme = "spydea-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "America/New_York"
+timeZone = "Europe/Berlin"
 # post pagination
 paginate = 6 # see https://gohugo.io/extras/pagination/
 # post excerpt

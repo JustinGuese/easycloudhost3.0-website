@@ -1,7 +1,7 @@
 ---
 banner:
-  title: "The smarter way to save documents"
-  description: "Pellen tesque in ipsum id orci porta dapibus. Sed port titor lectus nibh. Vivamus accumsan tincidunt. Vestibulum ac diam sit amet quam vehicula elementum sed suscipit tortor eghet felis porttitor volutpat. Vivamus"
+  title: "Compliant hosting made easy"
+  description: "Do you like the simplicity of Heroku and AWS but dislike the lack of compliance and price? Try one of our 3 EasyCloudHost hosting solutions!"
   images:
     main: "/images/banner/banner-image.jpg"
     left: "/images/banner/banner-image-part-1.jpg"
@@ -9,21 +9,21 @@ banner:
   supported_tech:
     title: "Supported"
     list:
-      - icon: "fa-brands fa-windows"
+      - icon: "fa-brands fa-python"
         link: "#?"
-      - icon: "fa-brands fa-dropbox"
+      - icon: "fa-brands fa-html5"
         link: "#?"
-      - icon: "fa-solid fa-hashtag"
+      - icon: "fa-brands fa-node-js"
         link: "#?"
-      - icon: "fa-brands fa-android"
+      - icon: "fa-solid fa-database"
         link: "#?"
   facility:
-    - "Works Anywhere"
-    - "Get Rewarded"
-    - "No Hidden Fees"
+    - "DSGVO/GDPR compliant"
+    - "Encrypted data"
+    - "Hetzner as data center (Nuremberg, Germany)"
 
 brands:
-  enable: true
+  enable: false
   list:
     - "/images/brands/1.png"
     - "/images/brands/2.png"
@@ -38,22 +38,22 @@ brands:
 
 feature_list:
   enable: true
-  title: "A Technology Approach"
-  subtitle: "WE ARE THE ULTIMATE"
-  description: "Pellen tesque in ipsum id orci porta dapibus. Sed port titor nibh. Vivamus accumsan tincidunt. Vestibulum ac diam sit amet quam vehicula"
+  title: "3 solutions for every need"
+  subtitle: "hosting made easy"
+  description: "Do you need simplicity? EasyWebApp is the way to go. More control, but Kubernetes is too much? Try EasySelfHost. Need full control? EasyKube is the solution for you."
   list:
-    - title: "Realtime function"
-      icon: "fa-regular fa-paper-plane"
-      description: "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Mauris blandit aliquet elit, eget tincidunt pulvinar a. Curabitur aliquet quam id dui posuere"
-    - title: "Accurate comment"
-      icon: "fa-regular fa-copy"
-      description: "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Mauris blandit aliquet elit, eget tincidunt pulvinar a. Curabitur aliquet quam id dui posuere"
-    - title: "Plugins support"
+    - title: "EasyWebApp"
       icon: "fa-regular fa-lightbulb"
-      description: "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Mauris blandit aliquet elit, eget tincidunt pulvinar a. Curabitur aliquet quam id dui posuere"
-    - title: "All Integrations"
+      description: "Do you love the simplicity of Heroku? Deploy your app without worrying about Docker, scaling, SSL, routes, downtimes and more. Just deploy your HTML/Python/Vue/React application via command line or web interface."
+    - title: "EasySelfHost"
+      icon: "fa-regular fa-server"
+      description: "Want more control? Love One-click-apps? Deploy your apps via our simple webinterface and let EasySelfHost take care of SSL certificates, volumes, CI/CD deployment and more. Just paste in the Github repo of your application, select a one-click database, and you are ready to go."
+    - title: "EasyKube"
+      icon: "fa-brands fa-docker"
+      description: "For those who require more control - our managed Kubernetes. Including Volume & Load Balancer support, multi-availability zones, autoscaling and more."
+    - title: "Free Migration"
       icon: "fa-regular fa-object-ungroup"
-      description: "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Mauris blandit aliquet elit, eget tincidunt pulvinar a. Curabitur aliquet quam id dui posuere"
+      description: "If you book a one-year plan we will migrate your application for free (if it takes less than an hour). Unsure how long it will take? Just book a free 10-minute consultation and we will tell you if a free migration is possible."
 
 process:
   enable: true
