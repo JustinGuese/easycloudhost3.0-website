@@ -99,6 +99,16 @@
                 </a>
               </span>
             {{ end }}
+            {{ with .buttonProduct }}
+              <span data-aos="fade-up-sm" data-aos-delay="150">
+                <a
+                  href="{{ .link | relLangURL }}" style="margin-top:20px"
+                  class="btn btn-outline-secondary btn-icon ml-6 max-w-[250px] md:max-w-[300px]">
+                  {{ .label | markdownify }}
+                  <i class="fa-solid fa-chevron-right pl-4"></i>
+                </a>
+              </span>
+            {{ end }}
           </div>
         </div>
       </div>
