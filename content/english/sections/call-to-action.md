@@ -1,25 +1,25 @@
 ---
 cta:
   enable: true
-  title: "Sign up and Create Your Online Store Today!"
+  title: "Contact us for a free suitability evaluation on which service is right for you!"
   image: "/images/cta-image.png"
   supported_tech:
     title: "Supported"
     list:
-      - icon: "fa-brands fa-windows"
+      - icon: "fa-brands fa-python"
         link: "#?"
-      - icon: "fa-brands fa-dropbox"
+      - icon: "fa-brands fa-html5"
         link: "#?"
-      - icon: "fa-solid fa-hashtag"
+      - icon: "fa-brands fa-node-js"
         link: "#?"
-      - icon: "fa-brands fa-android"
+      - icon: "fa-solid fa-database"
         link: "#?"
   buttons:
     primary:
-      label: "Get A Quote"
+      label: "Free Evaluation"
       link: "contact/"
     outline:
-      label: "Integration"
+      label: "Services"
       link: "integration/"
 
 # don't create a separete page
