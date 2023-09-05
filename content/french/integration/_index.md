@@ -1,3 +1,3 @@
 ---
-title: "Comment intégrer Spydea"
+title: "Comment intégrer EasyHost"
 ---

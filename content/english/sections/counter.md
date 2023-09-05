@@ -1,17 +1,17 @@
 ---
 counter_items:
-  - title: "Client Retention"
+  - title: "Uptime last month"
     prefix: ""
-    value: "94"
+    value: "99"
     suffix: "%"
-  - title: "Emails Per Month"
+  - title: "Servers under Management"
     prefix: ""
-    value: "70"
-    suffix: "M+"
-  - title: "Monthly Campaigns"
+    value: "14"
+    suffix: "+"
+  - title: "Projects migrated"
     prefix: ""
-    value: "10"
-    suffix: "K+"
+    value: "5"
+    suffix: "+"
 
 # don't create a separete page
 _build:

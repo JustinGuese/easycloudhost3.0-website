@@ -3,7 +3,7 @@ title: Choose the Plan That’s Right for You
 layout: "pricing"
 
 pricing_plan:
-  title: "Try Spydea for free Now"
+  title: "Try EasyHost for free Now"
   subtitle: "CHOOSE PLAN FOR YOU"
   description: "Lorem ipsum dolor sit amet, consectetur mag na dictum porta. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. elementum id enim. Nulla quis lorem ut libero malesuada feugiat. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Quisque velit nisi, pretium ut"
   button:

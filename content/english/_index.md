@@ -57,35 +57,35 @@ feature_list:
 
 process:
   enable: true
-  title: "Don't Take Our Word For It"
-  subtitle: "EXPERIENCE SPEAKS"
+  title: "From easy to full control"
+  subtitle: "One solution for every problem"
   description: "Pellen tesque in ipsum id orci porta dapibus. titor nibh. Vivamus accumsan tincidunt."
   list:
-    - title: "Features You will Need"
-      description: "Proin eget tortor risus. Donec sollicitudin molestie imperdiet et, porttitor at sem."
+    - title: "Deploying apps without worrying about hosting"
+      description: "EasyWebApp: Simplify hosting Python, HTML, React, and Vue apps with ease."
       image: "images/tab-contents/feature-tab-content-1.jpg"
-    - title: "Increase Your Sales"
-      description: "Proin eget tortor risus. Donec sollicitudin molestie imperdiet et, porttitor at sem."
+    - title: "Data located in Germany"
+      description: "Your data's safe haven: Our products ensure GDPR compliance by hosting in Germany, offering robust data privacy protection for EU users."
       image: "images/tab-contents/feature-tab-content-2.jpg"
-    - title: "Choose Right Plan"
-      description: "Proin eget tortor risus. Donec sollicitudin molestie imperdiet et, porttitor at sem."
+    - title: "Choosing the right Plan"
+      description: "Not sure which plan is right for you? Head over to contact and we will offer a free 10-minute consultation on which service is right for you!"
       image: "images/tab-contents/feature-tab-content-3.jpg"
 
 fun_fact:
   enable: true
-  title: "A Few Numbers We are Proud"
+  title: "A few numbers we are proud of"
   subtitle: "ACHIEVING EXCELLENCE"
-  description: "Pellen tesque in ipsum id orci porta dapibus. titor nibh. Vivamus accumsan tincidunt. Vestibulum ac diam sit amet quam vehicula elementum"
+  description: "Say goodbye to hosting hassles with EasyHost - your ticket to effortless and stress-free deployment."
 
 features:
-  - title: "Take Your Marketing to the Next Level."
-    subtitle: "INNOVATIVE STRATEGIES"
-    description: "Donec sollicitudin molestie malesuada. Lorem ipsum dolor sit imperdiet et, porttitor at sem. Pellentesque in ipsum id orci porta dapibus. Curabitur aliquet quam id dui posuere blandit. Proin eget elementum sed sit amet dui. Nulla porttitor accumsan tincidunt. Proin eget tortor risus."
+  - title: "We will help you to migrate your application to EasyHost"
+    subtitle: "Free Migration"
+    description: "Head over to contact and set up a free 10-minute meeting about which service will fit you best. The best part? We are offering a free migration if it does not exceed 1 hour of work! And if it would take longer? We will assist your DevOps team in the migration or will offer you an affordable migration package."
     image: "images/features/1.png"
 
-  - title: "Choose the Right Plan for Your Team"
-    subtitle: "COLLABORATIVE SOLUTIONS"
-    description: "Donec sollicitudin molestie malesuada. Lorem ipsum dolor sit imperdiet et, porttitor at sem. Pellentesque in ipsum id orci porta dapibus. Curabitur aliquet quam id dui posuere blandit. Proin eget elementum sed sit amet dui. Nulla porttitor accumsan tincidunt. Proin eget tortor risus."
+  - title: "Backups, One-Click Apps, SSL, CI/CD, and more"
+    subtitle: "Batteries included"
+    description: "EasyHost goes beyond the basics, offering a comprehensive suite of features that simplify your entire hosting experience. With automated backups, your data is safeguarded, ensuring peace of mind. Harness the power of one-click apps for swift installations, saving you precious time and effort. SSL security is a default, not an afterthought, providing trust and protection for your applications and users. Seamlessly integrate continuous integration and continuous deployment (CI/CD) pipelines to streamline your development workflow. And that's just the beginning. EasyHost is your all-in-one solution, designed to cater to every facet of your hosting needs, so you can focus on what truly matters—your applications."
     image: "images/features/2.png"
 
 blog:

@@ -1,15 +1,15 @@
 ---
 testimonial:
-  enable: true
+  enable: false
   title: "Take an look at our customers stories"
   subtitle: "INSPIRING TESTIMONIALS"
   items:
     - title: "Efficient Experience with Superb Customer Support"
       description: "elementum sed sit amet. Nulla port titor accumsan tincidunt. Proin eget tortor risus. Vestibulum ac diam sit amet quam"
       customer:
-        logo: "images/client-logo/1.png"
-        name: "Devon Lane"
-        image: "images/customers/1.jpg"
+        logo: ""
+        name: "Clarkson Lane"
+        image: ""
         profession: "VP growth at Facebook"
     - title: "Seamless Integration and Powerful Functionality"
       description: "elementum sed sit amet. Nulla port titor accumsan tincidunt. Proin eget tortor risus. Vestibulum ac diam sit amet quam"

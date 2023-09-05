@@ -11,7 +11,7 @@ logo_height = "37px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "spydea"
+logo_text = "EasyHost"
 # navbar fixed to top
 navbar_fixed = true
 # Main Sections
@@ -25,7 +25,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 custom_script = ""
 # copyright
 theme_copyright = true
-copyright = "Copyright by your company"
+copyright = "Copyright by DataFortress.cloud"
 
 # Preloader
 [preloader]
@@ -35,7 +35,7 @@ preloader = "images/logo-dark.png" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Integration"
+label = "Integrations"
 link = "integration/"
 
 [navigation_button_outline]
@@ -46,7 +46,7 @@ link = "contact/"
 # contact info
 [contact_info]
 mobile = "+94746-388817"
-email = "hello@spydea.com"
+email = "hello@EasyHost.com"
 
 # Subscription
 [announcement]

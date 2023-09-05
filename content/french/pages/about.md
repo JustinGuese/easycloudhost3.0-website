@@ -1,5 +1,5 @@
 ---
-title: À propos de Spydea
+title: À propos de EasyHost
 layout: "about"
 description: "Vivamus accu msan tincidunt. Vestib ulum ac diam sit amet quam vehicula elementum sed suscipit tortor eget felis porttitor volut"
 show_page_description: true
@@ -22,7 +22,7 @@ fun_fact:
   description: "Pellen tesque in ipsum id orci porta dapibus. titor nibh. Vivamus accumsan tincidunt. Vestibulum ac diam sit amet quam vehicula elementum"
 
 team_member:
-  title: "Incroyable équipe derrière l'application Spydea"
+  title: "Incroyable équipe derrière l'application EasyHost"
   subtitle: "LES MEMBRES DE NOTRE ÉQUIPE"
   button:
     label: "Devenir un membre"
